@@ -1,23 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-my programming language stack language stack
+### My Name is Prakash Choudhary i am intrested in Web Development, Embedded Systems and I.T.
 
-![]<img src="https://thelinuxpoint.github.io" width="200" height="200">
+## My Programming Language Stack (General Purpose)
+<img src="https://thelinuxpoint.github.io/pyt.png" width="150" height="150"/> <img src="https://thelinuxpoint.github.io/cpp.png" width="150" height="150"/>
+<img src="https://thelinuxpoint.github.io/ruby.png" width="120" height="120"/>
+<img src="https://thelinuxpoint.github.io/rust.svg" width="150" height="150"/>
+<img src="https://thelinuxpoint.github.io/java.png" width="150" height="150"/>
+<img src="https://thelinuxpoint.github.io/php1.0.png" width="150" height="150"/>
 
-
-
-
-<!--
-**thelinuxpoint/thelinuxpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
