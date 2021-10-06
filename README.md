@@ -2,8 +2,7 @@
 
 my programming language stack language stack
 
-![](https://thelinuxpoint.github.io/pyt.png)
-
+![]<img src="https://thelinuxpoint.github.io" width="200" height="200">
 
 
 
