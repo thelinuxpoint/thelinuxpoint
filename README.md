@@ -1,6 +1,9 @@
 # Hello there 👋
+<div align="center">
+    <img src="https://thelinuxpoint.github.io/pc.png" height="300px"/>
+</div>
 
-### My Name is `Prakash Choudhary` i am intrested in `Web Development`, `I.T.` and `BlockChain` Development. ability to code in many languages
+#### My Name is `Prakash Choudhary` i am intrested in `Web Development`, `I.T.` and `BlockChain Development`. ability to code in many languages
 
 ### My Language Stack:
 
