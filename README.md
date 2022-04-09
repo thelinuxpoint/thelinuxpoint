@@ -1,5 +1,4 @@
-# Hi
-My name is Prakash Choudhary , and i have been learning I.T and CyberSecurity.
-
+# INTRO
+My name is Prakash Choudhary, highly intrested in WEB based Projects ,IT and Machine Learning
 
 
