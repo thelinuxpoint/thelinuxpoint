@@ -14,7 +14,7 @@ Currently i am  studying in fourth year Engineering in EXTC which would be final
 # Language Stack
 
 `C++` `Rust` `Java` `Ruby` `Javascript` `Python` `PHP` `Bash` `HTML` `CSS`  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxpoint"/></div>
+
 
 
 # Tools
