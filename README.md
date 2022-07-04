@@ -9,8 +9,8 @@ Currently i am  studying in fourth year Engineering in EXTC which would be final
 <div align="center">
 <a href="https://youtube.com/c/TheLinuxPoint"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/thelinuxpoint"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:choudharyprakash0660@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
 # Language Stack
 
 `C++` `Rust` `Java` `Ruby` `Javascript` `Python` `PHP` `Bash` `HTML` `CSS`  
