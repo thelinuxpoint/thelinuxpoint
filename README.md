@@ -1,7 +1,7 @@
 # INTRO
 ### Hi there, My Name is Prakash Choudhary
 ### I'm a Software Engineer , a Embedded System Engineer , and a YouTuber!
-Currently i am  studying in fourth year Engineering in EXTC which would be finally completed in year 2023. I also make videos on Techinical content on my  
+Currently i am  studying in fourth year Engineering in EXTC which would be completed in year 2023. I also make videos on Techinical content on my YouTube channel
 
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thelinuxpoint&theme=vue"/></div>  
   
