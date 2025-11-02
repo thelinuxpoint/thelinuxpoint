@@ -12,7 +12,7 @@
 
 ## 🧩 Who Am I?
 
-Hey, I’m **Prakash**, the mind behind **The Linux Point** — a space where I merge **creativity + code** to make Linux and tech feel simple, fun, and powerful.
+Hey, I’m **Prakash Choudhary**, the mind behind **The Linux Point** — a space where I merge **creativity + code** to make Linux and tech feel simple, fun, and powerful.
 
 🎥 I create **educational + entertaining** content around  
 `Linux`, `Open Source`, `Cybersecurity`, and `Developer Tools`.
