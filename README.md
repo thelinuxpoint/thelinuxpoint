@@ -88,6 +88,5 @@ To **simplify complex tech** so anyone can explore the terminal world confidentl
   <img src="https://raw.githubusercontent.com/thelinuxpoint/thelinuxpoint/main/assets/linux_terminal.gif" width="70%">
 </p>
 
-<p align="center">
-  🚀 **Keep Exploring. Keep Creating. Keep Linux-ing.**  
-</p>
+🚀 **Keep Exploring. Keep Creating. Keep Linux-ing.**
+
