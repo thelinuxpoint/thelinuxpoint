@@ -1,15 +1,3 @@
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA0&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prakash+Choudhary+👋;Creator+of+The+Linux+Point;Tech+Enthusiast+⚙️+|+Web+Developer+💻+|+Embedded+Engineer;Exploring+Linux+%26+Cyber+Worlds+🌐" alt="Typing SVG" />
-</p>
-
-<!-- Banner / Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thelinuxpoint/thelinuxpoint/main/assets/thelinuxpoint_banner.png" width="90%" alt="The Linux Point Banner"/>
-</p>
-
----
-
 ## 🧩 Who Am I?
 
 Hey, I’m **Prakash Choudhary**, the mind behind **The Linux Point** — a space where I merge **creativity + code** to make Linux and tech feel simple, fun, and powerful.
