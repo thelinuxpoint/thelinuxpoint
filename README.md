@@ -8,8 +8,6 @@ Hey, I’m **Prakash Choudhary**, the mind behind **The Linux Point** — a spac
 💡 My mission?  
 To **simplify complex tech** so anyone can explore the terminal world confidently.
 
-🌍 I’m currently studying **Electronics & Telecommunication Engineering (EXTC)** and love blending hardware with software — from **embedded systems** to **web tools**.
-
 ---
 
 ## ⚡ What I Do
@@ -18,6 +16,16 @@ To **simplify complex tech** so anyone can explore the terminal world confidentl
 💻 **Web Development** — Crafting interactive tools and UIs for devs.  
 🔌 **Embedded Engineering** — Playing with microcontrollers, sensors, and automation.  
 🧩 **Community Building** — Sharing open-source ideas and tools through *The Linux Point*.
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Piickr.in — Stock Market Screener](https://piickr.in)
+**Piickr.in** is a smart, fast, and intuitive **stock market screener** built for traders and investors.  
+It helps you analyze, filter, and track market trends using live delivery data and performance metrics.  
+ 
+🧠 *Focus:* Clean UI, fast filtering, and insightful analytics for smarter trading decisions.
 
 ---
 
